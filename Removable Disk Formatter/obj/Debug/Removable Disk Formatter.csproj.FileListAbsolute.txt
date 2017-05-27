@@ -1,0 +1,9 @@
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\bin\Debug\Removable Disk Formatter.exe.config
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\bin\Debug\Removable Disk Formatter.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\bin\Debug\Removable Disk Formatter.pdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable Disk Formatter.csprojResolveAssemblyReference.cache
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable_Disk_Formatter.Form1.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable_Disk_Formatter.Properties.Resources.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable Disk Formatter.csproj.GenerateResource.Cache
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable Disk Formatter.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\Removable Disk Formatter\Removable Disk Formatter\obj\Debug\Removable Disk Formatter.pdb
